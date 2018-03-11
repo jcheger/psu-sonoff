@@ -4,8 +4,9 @@ Scripts for Octoprint / PSU Control plugin to handle Tasmota device, using syste
 
 Installation
 ============
-cd /opt
-git clone 
+`cd /opt`
+
+`git clone https://github.com/jcheger/psu-sonoff.git`
 
 Configuration
 =============
